@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Poppins } from "@next/font/google";
+import { Poppins } from "next/font/google";
 import NavigationBar from "@/components/Navigation";
 import MobileNavigation from "@/components/MobileNavigation";
 import Footer from "@/components/Footer";
