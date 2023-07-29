@@ -32,7 +32,7 @@ const NavigationBar = () => {
                         aria-expanded="false"
                         className="nav-item  py-2 py-xl-5 px-0 px-xl-4"
                       >
-                        <Link className="nav-link  p-0" href="./">
+                        <Link className="nav-link  p-0" href="/">
                           Home
                           <span className="caret"></span>
                         </Link>
